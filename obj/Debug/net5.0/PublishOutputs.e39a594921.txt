@@ -1,0 +1,11 @@
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Catalog.exe
+C:\Projects\Catalog\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Projects\Catalog\bin\Debug\net5.0\publish\appsettings.json
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Catalog.dll
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Catalog.deps.json
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Catalog.runtimeconfig.json
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Catalog.pdb
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
