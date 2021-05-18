@@ -5,7 +5,7 @@ using Catalog.Entities;
 
 namespace Catalog.Repositories
 {
-  public class InMemItemsRepository
+  public class InMemItemsRepository : IItemsRepository
   {
     private readonly List<Item> items = new()
     {
@@ -15,7 +15,7 @@ namespace Catalog.Repositories
     };
 
     // Get a list of items
-    public IEnumerable<Item> GetItems() 
+    public IEnumerable<Item> GetItems()
     {
       return items;
     }
