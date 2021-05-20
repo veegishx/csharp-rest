@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Catalog.Entities;
+using MongoDB.Bson;
 using MongoDB.Driver;
 
 namespace Catalog.Repositories
@@ -34,7 +35,7 @@ namespace Catalog.Repositories
 
     public IEnumerable<Item> GetItems()
     {
-      throw new NotImplementedException();
+      return itemsCollection.Find(new BsonDocument()).ToList();
     }
 
     public void UpdateItem(Item item)
